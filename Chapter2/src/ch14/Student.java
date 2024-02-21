@@ -5,6 +5,7 @@ public class Student {
 	String studentName;
 	int money;
 	
+	//매개변수가 2개 존재하는 생성자 선언
 	public Student(String studentName, int money) {
 		this.studentName = studentName;
 		this.money = money;

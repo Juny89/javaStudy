@@ -29,8 +29,8 @@ public class TakeTransTest {//객체간의 협력
 		greenSubway.showSubwayInfo();
 		
 		//아무도 타지 않은 버스와 지하철 showInfo()함수 실행
-		bus500.showBusInfo();
-		blueSubway.showSubwayInfo();
+//		bus500.showBusInfo();
+//		blueSubway.showSubwayInfo();
 		
 		
 	}
